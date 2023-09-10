@@ -1,0 +1,19 @@
+数据集：cbench
+程序名：cbench-office-stringsearch2
+状态：可编译，不可运行
+报错：can't find fine grain timers
+
+数据集：cbench
+程序名：cbench-security-blowfish
+状态：可编译，不可运行
+报错：can't find fine grain timers
+
+数据集：cbench
+程序名：cbench-security-pgp
+状态：不可编译，不可运行
+报错：运行报错：can't find fine grain timers
+
+数据集：cbench
+程序名：cbench-consumer-mad
+状态：不可编译，不可运行
+报错：运行报错：can't find fine grain timers
